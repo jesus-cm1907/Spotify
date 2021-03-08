@@ -1,4 +1,4 @@
-# Documentaciñon Proyecto Spotify.
+# Documentacion Proyecto Spotify.
 
 Mi proyecto a largo plazo consiste en un aplicación de música llamada Spotiapp,en la cual mediante el consumo de la API oficial de Spotify podremos desde buscar por 
 nuestros artistas o albunes favoritos e incluso reproducir las canciones.
