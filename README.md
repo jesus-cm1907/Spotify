@@ -8,5 +8,7 @@ Para el desarrollo de dicha aplicaciñon usaremos:
 -HEROKU
 -API oficial de Spotify.
 
+En cuanto el trabajo de investigación la idea es realizarlo sobre MONGODB ya que trabajaremos con dicha base de datos para el final de nuestro proyecto
+
 FIGMA:https://www.figma.com/file/QUfb2b9O1RidEzWIhs3Y1Z/Trabajo?node-id=0%3A1
 Trello:https://trello.com/b/YlbNB43J/jesus
